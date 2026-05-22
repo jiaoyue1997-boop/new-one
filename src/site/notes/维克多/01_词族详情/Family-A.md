@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/维克多/01_词族详情/Family-A/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/维克多/01_词族详情/Family-A/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ## 第 1-5 个词族（Obsidian 适配版）
